@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Çandır!</h1>
-- 🔭 I’m currently working on Frontend
+- 🔭 I’m currently working on **Frontend**
 
 - 🔮 I develop projects with **React, Javascript & React Native.**
 
